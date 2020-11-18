@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/vigor/Desktop/HITCTF2020-Rev-mid/build",
+  "command": "E:\\mingw\\bin\\g++.exe   -O3 -DNDEBUG -s -o CMakeFiles\\maze.dir\\main.cpp.obj -c C:\\Users\\vigor\\Desktop\\HITCTF2020-Rev-mid\\main.cpp",
+  "file": "C:/Users/vigor/Desktop/HITCTF2020-Rev-mid/main.cpp"
+},
+{
+  "directory": "C:/Users/vigor/Desktop/HITCTF2020-Rev-mid/build",
+  "command": "E:\\mingw\\bin\\g++.exe   -O3 -DNDEBUG -s -o CMakeFiles\\maze.dir\\maze.cpp.obj -c C:\\Users\\vigor\\Desktop\\HITCTF2020-Rev-mid\\maze.cpp",
+  "file": "C:/Users/vigor/Desktop/HITCTF2020-Rev-mid/maze.cpp"
+}
+]

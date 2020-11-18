@@ -1,0 +1,2 @@
+E:\mingw\bin\ar.exe qc lib..a CMakeFiles/..dir/maze.cpp.obj
+E:\mingw\bin\ranlib.exe lib..a

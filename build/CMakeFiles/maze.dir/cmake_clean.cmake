@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/maze.dir/main.cpp.obj"
+  "CMakeFiles/maze.dir/maze.cpp.obj"
+  "libmaze.dll.a"
+  "maze.exe"
+  "maze.exe.manifest"
+  "maze.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/maze.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

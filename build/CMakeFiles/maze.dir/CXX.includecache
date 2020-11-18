@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vigor/Desktop/HITCTF2020-Rev-mid/main.cpp
+iostream
+-
+string.h
+-
+maze.h
+C:/Users/vigor/Desktop/HITCTF2020-Rev-mid/maze.h
+
+C:/Users/vigor/Desktop/HITCTF2020-Rev-mid/maze.cpp
+maze.h
+C:/Users/vigor/Desktop/HITCTF2020-Rev-mid/maze.h
+malloc.h
+-
+random
+-
+stack
+-
+cstdlib
+-
+string.h
+-
+iostream
+-
+vector
+-
+set
+-
+bits/stdc++.h
+-
+
+C:/Users/vigor/Desktop/HITCTF2020-Rev-mid/maze.h
+list
+-
+vector
+-
+unordered_map
+-
+
